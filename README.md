@@ -5,5 +5,4 @@ I'm a software enginneer trying to make the world a better place. I dabble in a 
 About me:
 - 🌱 I’m currently learning React / Django / Godot
 - 🎲 In my free time I make videogames, find me on https://a-sandwich.itch.io
-- 🎮 I'm the co-host of the Type Advantage Podcast
 - 😄 Pronouns: He / Him
