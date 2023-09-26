@@ -4,5 +4,5 @@ I'm a software engineer trying to make the world a better place. I dabble in a l
 
 About me:
 - 🌱 I’m currently learning React / Node / Godot / Electron
-- 🎲 In my free time I make videogames, find me on https://a-sandwich.itch.io
+- 🎲 In my free time I make videogames, find me on https://www.kbgame.dev/
 - 😄 Pronouns: He / Him
